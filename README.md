@@ -2,13 +2,7 @@
 
 ShopMart is a modern and responsive e-commerce website built using HTML, CSS, and JavaScript with AI assistance. It provides a simple online shopping experience where users can browse products, add items to the cart, manage quantities, and proceed to a demo checkout.
 
-## 🌐 Live Demo
 
-Add your website live link here:
-
-```
-https://your-website-link.com
-```
 
 ## ✨ Features
 
@@ -38,12 +32,7 @@ ShopMart/
 └── README.md         # Project documentation
 ```
 
-## 🚀 Installation & Usage
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ShopMart.git
 ```
 
 ### 2. Open the Project
